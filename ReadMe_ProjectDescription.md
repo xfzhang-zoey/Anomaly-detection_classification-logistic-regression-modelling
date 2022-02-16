@@ -1,4 +1,4 @@
-This is my 7th project in the context of data analyst training program cohosted by OpenClassrooms and INSAE-INSEE. 
+This is my 6th project in the context of data analyst training program cohosted by OpenClassrooms and INSAE-INSEE. 
 https://openclassrooms.com/fr/paths/65/projects/147/assignment
 
 
