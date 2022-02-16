@@ -1,8 +1,10 @@
-# p6_detect_fake_tickets_logisticregression_PCA_Kmeans_DA_OCR
-This is my 7th project in the context of data analyst training program
-Highlights: logistic regression, linear regression, descriptive statistics 
+This is my 7th project in the context of data analyst training program cohosted by OpenClassrooms and INSAE-INSEE. 
+
+Highlights: **clustering method - K means, Principal Component Analysis, modelisation via logistic regression, descriptive statistics 
+**
 
 **Prérequis**
+
 Pour ce projet, il sera nécessaire de savoir manipuler des données en R ou en Python. Également, vous devrez effectuer une analyse de **statistique descriptive**, ainsi qu'une **Analyse en Composantes Principales**, une **classification automatique**, et une **modélisation** de type **régression logistique**.
 
  
@@ -23,11 +25,14 @@ La PJ vous transmet un jeu de données contenant les caractéristiques géométr
 - la marge entre le bord inférieur du billet et l'image de celui-ci (en mm) ;
 - la diagonale du billet (en mm).
 
-**Votre mission
-Mission 0**
+**Votre mission**
+
+**Mission 0**
+
 Afin d'introduire votre analyse, effectuez une brève description des données (analyses univariées et bivariées).
 
 **Mission 1**
+
 Vous réaliserez une analyse en composantes principales de l'échantillon, en suivant toutes ces étapes :
 
 - analyse de l'éboulis des valeurs propres ;
@@ -38,9 +43,11 @@ Vous réaliserez une analyse en composantes principales de l'échantillon, en su
 La variable donnant la nature Vrai/Faux du billet sera utilisée comme variable illustrative.
 
 **Mission 2**
+
 Appliquez un **algorithme de classification**, puis analysez le résultat obtenu.
 
 Visualisez la partition obtenue dans le premier plan factoriel de l'ACP, puis analysez-la.
 
 **Mission 3**
+
 Modélisez les données à l'aide d'une régression logistique. Grâce à celle-ci, vous créerez un programme capable d'effectuer une prédiction sur un billet, c'est-à-dire de déterminer s'il s'agit d'un vrai ou d'un faux billet. Pour chaque billet, votre algorithme de classification devra donner la probabilité que le billet soit vrai. Si cette probabilité est supérieure ou égale à 0.5, le billet sera considéré comme vrai. Dans le cas contraire, il sera considéré comme faux.
