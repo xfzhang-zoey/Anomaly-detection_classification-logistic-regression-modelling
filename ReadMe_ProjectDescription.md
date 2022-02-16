@@ -1,8 +1,13 @@
 This is my 6th project in the context of data analyst training program cohosted by OpenClassrooms and INSAE-INSEE. 
 https://openclassrooms.com/fr/paths/65/projects/147/assignment
+En bref: Détecter les faux billets à partir du jeu de données englobant statistiques sur les 6 caracthéristiques (dont 5 quantitatives et 1 qualitatives) des billets.
 
+**Highlights:** 
 
-Highlights: **clustering method - K means, Principal Component Analysis, modelisation via logistic regression, descriptive statistics**
+- Clustering method - K means, 
+- Principal Component Analysis, 
+- Modelisation via logistic regression, 
+- Descriptive statistics
 
 
 **Prérequis**
