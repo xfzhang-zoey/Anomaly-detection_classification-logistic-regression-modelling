@@ -1,7 +1,9 @@
 This is my 7th project in the context of data analyst training program cohosted by OpenClassrooms and INSAE-INSEE. 
+https://openclassrooms.com/fr/paths/65/projects/147/assignment
 
-Highlights: **clustering method - K means, Principal Component Analysis, modelisation via logistic regression, descriptive statistics 
-**
+
+Highlights: **clustering method - K means, Principal Component Analysis, modelisation via logistic regression, descriptive statistics**
+
 
 **Prérequis**
 
@@ -16,6 +18,7 @@ Vous vous voyez déjà en grand justicier combattant sans relâche la criminalit
 ... Bon, si on retombait les pieds sur terre? Travailler pour la police judiciaire, c'est bien, mais vous allez devoir faire appel à vos connaissances en statistiques, alors on y va !
 
 **Les données**
+
 La PJ vous transmet un jeu de données contenant les caractéristiques géométriques de billets de banque. Pour chacun d'eux, nous connaissons :
 
 - la longueur du billet (en mm) ;
